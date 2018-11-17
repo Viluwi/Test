@@ -1,0 +1,20 @@
+	h1 {
+  animation: pulse 1s infinite;
+	}
+
+	@keyframes pulse {
+	  0% {
+	    color: #001F3F;
+	  }
+	  25%{
+	  	color: #A98065;
+	  }
+	  50% {
+	  color: #86FF35;
+	  }
+	  
+	  100% {
+	    color: #FF4136;
+	  }
+	 
+	}
